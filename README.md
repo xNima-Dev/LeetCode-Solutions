@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -182,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
