@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0147-insertion-sort-list](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0147-insertion-sort-list](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Tree
 |  |
