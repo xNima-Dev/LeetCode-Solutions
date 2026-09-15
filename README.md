@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 ## Trie
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0566-reshape-the-matrix](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
