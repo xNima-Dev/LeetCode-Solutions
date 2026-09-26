@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0463-island-perimeter](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0221-maximal-square](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0221-maximal-square) |
 ## Memoization
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 ## Heap (Priority Queue)
