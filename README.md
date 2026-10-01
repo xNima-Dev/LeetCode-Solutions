@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0268-missing-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0598-range-addition-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0561-array-partition) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -153,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
