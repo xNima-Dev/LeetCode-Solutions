@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 | [0463-island-perimeter](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0561-array-partition) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0284-peeking-iterator](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
