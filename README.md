@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0561-array-partition) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |
