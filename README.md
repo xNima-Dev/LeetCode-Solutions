@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
+| [0303-range-sum-query-immutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0284-peeking-iterator](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
+| [0303-range-sum-query-immutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -344,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
