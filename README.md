@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0284-peeking-iterator](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0221-maximal-square](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 ## Heap (Priority Queue)
@@ -350,4 +353,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
