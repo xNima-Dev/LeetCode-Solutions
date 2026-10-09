@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -354,4 +357,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
