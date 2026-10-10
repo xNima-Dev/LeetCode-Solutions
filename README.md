@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0313-super-ugly-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0313-super-ugly-number) |
 | [0598-range-addition-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0313-super-ugly-number) |
 | [0347-top-k-frequent-elements](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0313-super-ugly-number) |
 | [0354-russian-doll-envelopes](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 ## Memoization
 |  |
