@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0427-construct-quad-tree) |
+| [0435-non-overlapping-intervals](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0561-array-partition) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0313-super-ugly-number) |
 | [0354-russian-doll-envelopes](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0414-third-maximum-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0321-create-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 ## Counting Sort
