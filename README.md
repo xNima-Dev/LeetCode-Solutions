@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0463-island-perimeter](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0561-array-partition) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
