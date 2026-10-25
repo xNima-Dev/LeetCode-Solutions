@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0561-array-partition) |
