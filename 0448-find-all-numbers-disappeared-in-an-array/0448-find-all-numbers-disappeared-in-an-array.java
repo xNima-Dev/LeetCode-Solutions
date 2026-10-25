@@ -1,0 +1,26 @@
+import java.util.ArrayList;
+import java.util.List;
+
+class Solution {
+    public List<Integer> findDisappearedNumbers(int[] nums) {
+        int n = nums.length;
+        List<Integer> result = new ArrayList<>();
+
+        // Mark visited numbers by negating the value at their corresponding index
+        for (int i = 0; i < n; i++) {
+            int index = Math.abs(nums[i]) - 1;
+            if (nums[index] > 0) {
+                nums[index] = -nums[index];
+            }
+        }
+
+        // Indices with positive values indicate missing numbers
+        for (int i = 0; i < n; i++) {
+            if (nums[i] > 0) {
+                result.add(i + 1);
+            }
+        }
+
+        return result;
+    }
+}
