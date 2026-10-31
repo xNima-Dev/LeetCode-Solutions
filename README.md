@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0561-array-partition) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0321-create-maximum-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0321-create-maximum-number) |
+| [0456-132-pattern](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0456-132-pattern) |
 ## Linked List
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0456-132-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0456-132-pattern](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0456-132-pattern) |
 ## Treap
 |  |
 | ------- |
@@ -451,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0321-create-maximum-number) |
+| [0456-132-pattern](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0456-132-pattern) |
 ## Knapsack Problem
 |  |
 | ------- |
