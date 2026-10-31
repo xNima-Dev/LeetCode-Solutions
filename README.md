@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0454-4sum-ii) |
+| [0457-circular-array-loop](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [0575-distribute-candies](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0456-132-pattern) |
+| [0457-circular-array-loop](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [0463-island-perimeter](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0561-array-partition) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0457-circular-array-loop](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 ## String Matching
 |  |
 | ------- |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0457-circular-array-loop](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 ## Design
 |  |
 | ------- |
