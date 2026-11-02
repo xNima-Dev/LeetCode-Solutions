@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0318-maximum-product-of-word-lengths](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0472-concatenated-words](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Array
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0472-concatenated-words](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 ## Stack
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0472-concatenated-words](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 ## Memoization
 |  |
 | ------- |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0472-concatenated-words](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -275,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 ## Binary Tree
 |  |
 | ------- |
