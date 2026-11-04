@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0473-matchsticks-to-square](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 ## Simulation
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0472-concatenated-words](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 ## Memoization
 |  |
 | ------- |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0473-matchsticks-to-square](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 ## Iterator
 |  |
 | ------- |
@@ -481,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
