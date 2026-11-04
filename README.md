@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0318-maximum-product-of-word-lengths](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0472-concatenated-words](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Array
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0472-concatenated-words](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 ## Memoization
 |  |
 | ------- |
@@ -477,10 +480,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 ## Quicksort
 |  |
 | ------- |
