@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0477-total-hamming-distance](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0598-range-addition-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0475-heaters) |
+| [0477-total-hamming-distance](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
+| [0477-total-hamming-distance](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 ## Simulation
 |  |
 | ------- |
