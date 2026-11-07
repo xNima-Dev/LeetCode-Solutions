@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0480-sliding-window-median) |
+| [0485-max-consecutive-ones](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
