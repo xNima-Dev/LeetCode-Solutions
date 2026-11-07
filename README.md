@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
+| [0480-sliding-window-median](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0480-sliding-window-median) |
 | [0575-distribute-candies](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
+| [0480-sliding-window-median](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0480-sliding-window-median) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0480-sliding-window-median](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0480-sliding-window-median) |
 | [0594-longest-harmonious-subsequence](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Rolling Hash
 |  |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0480-sliding-window-median](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0480-sliding-window-median) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 ## Greedy
 |  |
@@ -478,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0480-sliding-window-median](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0480-sliding-window-median) |
 ## Monotonic Stack
 |  |
 | ------- |
