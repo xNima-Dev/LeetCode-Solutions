@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0495-teemo-attacking](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0495-teemo-attacking](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/xNima-Dev/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 ## Dynamic Programming
 |  |
